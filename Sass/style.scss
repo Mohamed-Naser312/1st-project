@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Dosis:wght@200..800&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Zeyada&display=swap");
+
+* {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 500;
+}
+
+body {
+  height: 5000px !important;
+}
+
+.c-orange {
+  color: orange !important;
+}
+
+.bg-c-orange {
+  background-color: orange !important;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 0.9rem;
+}
+
+.nav-icon {
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
+}
+
+.no-focus:focus {
+  outline: none !important;
+}
+
+.ice {
+  cursor: pointer;
+}
+
+.slidert1 {
+  color: rgb(161 150 140);
+}
+
+.slidert2 {
+  color: rgb(98 97 97);
+}
+
+.slidert3 {
+  color: rgb(169 168 166);
+}
+
+.widthy {
+  width: 5%;
+  display: inline-block;
+  margin: 5px;
+}
+
+.bt1 {
+  border-radius: 0px;
+  background-color: rgb(250, 149, 17);
+  color: white;
+  padding: 0.8rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.bt2 {
+  border-radius: 0px;
+  color: rgb(250, 149, 17);
+  padding: 0.8rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.discount {
+  color: rgb(169 168 166);
+  margin-left: 8px;
+  text-decoration: line-through;
+}
+
+.im1 {
+  width: 100%;
+}
+
+.carousel-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50% !important;
+  background-color: orange !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+.carousel-indicators button.active {
+  background-color: #ff5733 !important; /* تغيير اللون عند التفعيل */
+}
+
+.whit {
+  background: white;
+  height: 2000px;
+}
+
+.mt10 {
+  margin-top: 4.5rem;
+  border: none;
+  background-color: rgb(248 249 253);
+  border-radius: 0px;
+}
+
+.w85 {
+  width: 85%;
+}
+
+.p16 {
+  padding: 16px;
+  text-align: center;
+}
+
+.card1 {
+  font-weight: 500;
+}
+
+.card1p {
+  font-weight: 400;
+  color: rgb(164 162 160);
+  margin-bottom: 0px !important;
+}
+
+.p15 {
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-bottom: 16px;
+  text-align: center;
+}
+
+.p17 {
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.mt19 {
+  margin-top: 8.5rem;
+}
+
+.b19 {
+  bottom: -7rem;
+}
+
+.mybtn {
+  border-radius: 0px;
+  border-color: black !important;
+  border-style: solid;
+  border-width: 0.08rem;
+}
